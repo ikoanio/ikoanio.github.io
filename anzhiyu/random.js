@@ -1,1 +1,1 @@
-var posts=["2023/04/07/考研高数/","2023/04/06/hello-world/","2023/04/06/六级复习/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/04/06/hello-world/","2023/04/07/考研高数/","2023/04/06/六级复习/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
